@@ -6,9 +6,7 @@ const Single = React.createClass({
       <div className="single-photo">
         I'm the photo single
       </div>
-
     )
   }
 });
-
 export default Single;
